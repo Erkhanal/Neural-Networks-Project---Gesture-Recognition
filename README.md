@@ -11,7 +11,7 @@
 * [Contact Information](#contact-information)
 
 ## Introduction:  
-<div align="justify">This repository contains the code to build a project, which aim to develop a gesture recognition feature for smart televisions using deep learning techniques. The task involves recognizing five different gestures performed by users in front of a webcam, each corresponding to a specific command: thumbs up, thumbs down, right swipe, left swipe, stop (pause). This feature will enable users to control the TV without using a remote. </div>
+<div align="justify">This repository contains the python code to build a project, which aim to develop a gesture recognition feature for smart televisions using deep learning techniques. The task involves recognizing five different gestures performed by users in front of a webcam, each corresponding to a specific command: thumbs up, thumbs down, right swipe, left swipe, stop (pause). This feature will enable users to control the TV without using a remote. </div>
 
 ## Problem Statement:  
 <div align="justify">
